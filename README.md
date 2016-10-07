@@ -2,7 +2,8 @@
 Movie Trailer Website is a list of your favorite movies, including box art imagery and a movie trailer URL.
 
 What's Included:
-movie_trailer_website:
+
+Movie_trailer_website:
  1. fresh_tomatoes.py
  2. entertainment_center.py
  3. media.py
